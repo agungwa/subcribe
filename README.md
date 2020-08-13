@@ -1,11 +1,11 @@
 # Welcome to Subcribe Pluggin!
 
-##Plugin Name: Subcribe
-##Description: Don't forget drink coffee
-##Version: 0.0.1
-##Author: Agung Widhiatmojo
-##Author URI: https://agungw.com/
-##License: None
+## Plugin Name: Subcribe
+## Description: Don't forget drink coffee
+## Version: 0.0.1
+## Author: Agung Widhiatmojo
+## Author URI: https://agungw.com/
+## License: None
 
 
 # Installation
